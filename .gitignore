@@ -1,0 +1,10 @@
+*.swp
+*.pyc
+tags
+__pycache__
+/build
+/dist
+/*.egg-info
+/.venv
+/.tox
+/.cache
