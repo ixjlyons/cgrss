@@ -28,7 +28,7 @@ setup(
     author_email='ixjlyons@gmail.com',
     license='MIT',
 
-    py_modules=['cgrss'],
+    packages=find_packages(),
 
     entry_points={
         'console_scripts': [
